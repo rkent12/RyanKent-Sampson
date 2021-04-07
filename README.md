@@ -1,2 +1,2 @@
 # RyanKent-Sampson
-https://ryankent-sampson.netlify.app/town_hall_3/speakers/
+https://ryankent-sampson.netlify.app/town_hall_3/speakers/sampson.html
